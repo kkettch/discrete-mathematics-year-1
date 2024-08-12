@@ -2,7 +2,7 @@
 Домашние задания и курсовые по предмету "Дискретная математика" за 1 семестр Университета ИТМО
 
 ## Навигация по репозиторию
-- [Семестр 1](Semester1/Coursework)
+- [Семестр 1](Semester1)
   - [Курсовые работы](Semester1/Coursework)
     - [Курсовая работа №1](Semester1/Coursework)
     - [Курсовая работа №2](Semester1/Coursework)
@@ -12,7 +12,7 @@
     - [Домашнее задание №6](Semester1/Coursework)
     - [Домашнее задание №7](Semester1/Coursework)
     - [Домашнее задание №8](Semester1/Coursework)
-- [Семестр 2](Semester1/Homework)
+- [Семестр 2](Semester2)
   - [Курсовые работы](Semester1/Coursework)
     - [Курсовая работа №1](Semester1/Coursework)
   - [Домашние задание](Semester1/Coursework)
